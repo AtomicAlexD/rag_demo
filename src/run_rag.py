@@ -200,8 +200,8 @@ class SearchEngine:
         try:
             with open(file_path, encoding='utf-8') as file:
                 text = file.read()
-        except Exception as e:
-            raise RuntimeError(f"Error reading file {file_path}: {e}")
+        except OSError as e:
+            raise RuntimeError(f"Error reading file {file_path}: {e}") from e
 
         # Process text into chunks
         chunks = self.chunk_text(text)
