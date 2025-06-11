@@ -42,7 +42,13 @@ cd <your-repo-name>
 ### 2. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+# Install UV if you don't have it yet
+curl -sSf https://install.ultraviolet.rs | sh
+# Or on Windows PowerShell
+iwr https://install.ultraviolet.rs | iex
+
+# Install dependencies with UV
+uv pip install -r requirements.txt
 ```
 
 *Note: This project only requires the `requests` library - everything else uses Python's built-in modules*
@@ -50,7 +56,7 @@ pip install -r requirements.txt
 ### 3. Run the system
 
 ```bash
-python simple_rag.py
+uv run python src/run_rag.py --web
 ```
 
 ### 4. Start chatting
@@ -102,7 +108,7 @@ Your Question → Keyword Search → Find Relevant Data → Send to Ollama → G
 
 ### Changing the AI Model
 
-Edit the model name in `simple_rag.py`:
+Edit the model name in `run_rag.py`:
 
 ```python
 # In the chat() method, change:
