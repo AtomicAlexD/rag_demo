@@ -1,0 +1,89 @@
+NVIDIA Corporation
+Founded: 1993
+Headquarters: Santa Clara, California
+CEO: Jensen Huang
+Primary Business: Graphics processing units (GPUs), artificial intelligence hardware and software
+Key Products: GeForce graphics cards, RTX series, Tesla data center GPUs, CUDA platform, Omniverse
+Market Cap: Over $1 trillion (as of 2023)
+Notable Facts: Started as a gaming graphics company, pivoted to become the leading AI chip manufacturer. Their GPUs power most modern AI training and inference workloads. The company's stock price increased dramatically during the AI boom of 2022-2023.
+
+Apple Inc.
+Founded: 1976
+Headquarters: Cupertino, California
+CEO: Tim Cook
+Primary Business: Consumer electronics, software, services
+Key Products: iPhone, iPad, Mac computers, Apple Watch, AirPods, iOS, macOS
+Market Cap: Over $3 trillion (as of 2023)
+Notable Facts: Co-founded by Steve Jobs, Steve Wozniak, and Ronald Wayne. Known for premium design and integrated ecosystem. The iPhone, launched in 2007, revolutionized the smartphone industry. Apple Services (App Store, iCloud, Apple Music) has become a major revenue driver.
+
+Microsoft Corporation
+Founded: 1975
+Headquarters: Redmond, Washington
+CEO: Satya Nadella
+Primary Business: Software, cloud computing, productivity tools
+Key Products: Windows, Office 365, Azure cloud platform, Xbox, Surface devices, Teams
+Market Cap: Over $2.5 trillion (as of 2023)
+Notable Facts: Co-founded by Bill Gates and Paul Allen. Transformed from a PC software company to a cloud-first business under Satya Nadella's leadership. Major investor in OpenAI, integrating GPT models into their products like Bing and Office.
+
+Google (Alphabet Inc.)
+Founded: 1998
+Headquarters: Mountain View, California
+CEO: Sundar Pichai
+Primary Business: Internet search, advertising, cloud computing, consumer electronics
+Key Products: Google Search, YouTube, Android, Chrome browser, Google Cloud Platform, Pixel phones
+Market Cap: Over $1.5 trillion (as of 2023)
+Notable Facts: Started as a search engine by Larry Page and Sergey Brin while PhD students at Stanford. Ad revenue from search still drives most profits. Google has been a pioneer in AI research with projects like DeepMind, TensorFlow, and large language models.
+
+Amazon.com Inc.
+Founded: 1994
+Headquarters: Seattle, Washington
+CEO: Andy Jassy
+Primary Business: E-commerce, cloud computing, digital streaming, artificial intelligence
+Key Products: Amazon.com marketplace, Amazon Web Services (AWS), Prime Video, Alexa, Kindle
+Market Cap: Over $1 trillion (as of 2023)
+Notable Facts: Started by Jeff Bezos as an online bookstore. AWS, launched in 2006, became the dominant cloud computing platform. Amazon's logistics and fulfillment network is one of the most sophisticated in the world.
+
+Tesla Inc.
+Founded: 2003
+Headquarters: Austin, Texas
+CEO: Elon Musk
+Primary Business: Electric vehicles, energy storage, solar panels
+Key Products: Model S, Model 3, Model X, Model Y, Cybertruck, Powerwall, Solar Roof
+Market Cap: Over $800 billion (peak)
+Notable Facts: Named after inventor Nikola Tesla. Elon Musk joined as chairman in 2004 and became CEO in 2008. Tesla accelerated the global transition to electric vehicles and pioneered over-the-air software updates for cars.
+
+Meta Platforms Inc.
+Founded: 2004
+Headquarters: Menlo Park, California
+CEO: Mark Zuckerberg
+Primary Business: Social media, virtual reality, messaging
+Key Products: Facebook, Instagram, WhatsApp, Messenger, Oculus VR headsets
+Market Cap: Over $800 billion (as of 2023)
+Notable Facts: Originally called Facebook, founded by Mark Zuckerberg at Harvard. Renamed to Meta in 2021 to reflect focus on building the metaverse. Owns the world's largest social media platforms with over 3 billion users across its family of apps.
+
+Netflix Inc.
+Founded: 1997
+Headquarters: Los Gatos, California
+CEO: Ted Sarandos and Greg Peters (Co-CEOs)
+Primary Business: Streaming entertainment, content production
+Key Products: Netflix streaming service, original content like Stranger Things, The Crown, Squid Game
+Market Cap: Over $150 billion (as of 2023)
+Notable Facts: Started as a DVD-by-mail service, pivoted to streaming in 2007. Revolutionized entertainment consumption and created the "binge-watching" culture. Invests heavily in original content production globally.
+
+Salesforce Inc.
+Founded: 1999
+Headquarters: San Francisco, California
+CEO: Marc Benioff
+Primary Business: Customer relationship management (CRM), cloud computing
+Key Products: Sales Cloud, Service Cloud, Marketing Cloud, Tableau, Slack
+Market Cap: Over $200 billion (as of 2023)
+Notable Facts: Pioneer in Software-as-a-Service (SaaS) model. Known for its Ohana culture and commitment to equality. Acquired Slack for $27.7 billion in 2021, one of the largest software acquisitions ever.
+
+Adobe Inc.
+Founded: 1982
+Headquarters: San Jose, California
+CEO: Shantanu Narayen
+Primary Business: Creative software, digital marketing, document management
+Key Products: Photoshop, Illustrator, Premiere Pro, Acrobat, Creative Cloud, Experience Cloud
+Market Cap: Over $200 billion (as of 2023)
+Notable Facts: Created the PDF format and PostScript language. Transitioned from selling boxed software to a subscription-based Creative Cloud model. Their creative tools are industry standard for designers, photographers, and video editors.
