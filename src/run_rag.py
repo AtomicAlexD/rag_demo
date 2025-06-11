@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Flask web interface for Simple RAG system.
 Combines the RAG functionality with a web frontend.
