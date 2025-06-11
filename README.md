@@ -42,7 +42,7 @@ cd <your-repo-name>
 ### 2. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 *Note: This project only requires the `requests` library - everything else uses Python's built-in modules*
