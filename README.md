@@ -48,7 +48,7 @@ curl -sSf https://install.ultraviolet.rs | sh
 iwr https://install.ultraviolet.rs | iex
 
 # Install dependencies with UV
-uv pip install -r requirements.txt
+uv sync
 ```
 
 *Note: This project only requires the `requests` library - everything else uses Python's built-in modules*
